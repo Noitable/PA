@@ -1,0 +1,17 @@
+body{
+	background-color: aliceblue;
+}
+::selection{
+	background-color: black;
+	color: white;
+}
+
+form{
+	font-family: Arial, Helvetica, sans-serif;
+}
+
+h{
+	font-family:Helvetica,Arial,sans-serif;
+	font-size:x-large;
+	color: black;
+}
